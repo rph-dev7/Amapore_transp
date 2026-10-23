@@ -359,6 +359,6 @@ const footerYear =
 if (footerYear) {
 
     footerYear.textContent =
-        `© ${currentYear} RC Logística. Todos os direitos reservados.`;
+        `© ${currentYear} VALHALLA TECH. Todos os direitos reservados.`;
 
 }
